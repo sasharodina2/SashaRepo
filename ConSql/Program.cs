@@ -10,7 +10,7 @@ namespace ConSql
 	{
 		static void Main(string[] args)
 		{
-            
+            Console.WriteLine("Внесла изменения");
 		}
 	}
 }
